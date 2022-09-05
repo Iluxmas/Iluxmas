@@ -1,4 +1,4 @@
-### Hi there 👋
+### Эй привет! Меня зовут Илья и я начинающий фронтенд разработчик 👋
 
 <!--
 **Iluxmas/Iluxmas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
