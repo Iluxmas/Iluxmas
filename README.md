@@ -1,4 +1,14 @@
-### Эй привет! Меня зовут Илья и я начинающий фронтенд разработчик 👋
+## Hi there 👋 
+
+My name is Ilya and I am going to be Senior Frontend Developer in four years (haha, really :relieved:)
+
+Things interesting to me:
+
+- :chart_with_upwards_trend: Efficiency and automatization
+- :apple: Fine design with attention to UX 
+- :question: Tasks not everyone can solve
+
+My current focus is a deep dive into React and Redux. Joined Hexlet-Codebattle opensource project to contribute and gain new knowledge.
 
 <!--
 **Iluxmas/Iluxmas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
