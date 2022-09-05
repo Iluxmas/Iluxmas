@@ -2,13 +2,15 @@
 
 My name is Ilya and I am going to be Senior Frontend Developer in four years (haha, really :relieved:)
 
-Things interesting to me:
+**Things interesting to me:**
 
-- :chart_with_upwards_trend: Efficiency and automatization
-- :apple: Fine design with attention to UX 
-- :question: Tasks not everyone can solve
+- :chart_with_upwards_trend: Efficiency and automatization <!--`(don't want my memory to leak)`-->
+- :apple: Fine design with attention to UX <!--`(it is already a lot of with poor usability)`-->
+- :question: Tasks not everyone can solve <!--`( )`-->
 
 My current focus is a deep dive into React and Redux. Joined Hexlet-Codebattle opensource project to contribute and gain new knowledge.
+
+**Tech stack** : `React.js` `Redux` `Webpack` `Jest` `HTML` `CSS` `SCSS`
 
 <!--
 **Iluxmas/Iluxmas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
