@@ -10,8 +10,9 @@ My name is Ilya and I am going to be Senior Frontend Developer in four years (ha
 
 My current focus is a deep dive into React and Redux. Joined Hexlet-Codebattle opensource project to contribute and gain new knowledge.
 
-**Tech stack** : `React.js` `Redux` `Webpack` `Jest` `HTML` `CSS` `SCSS`
+**Tech stack:** `React.js` `Redux` `Webpack` `Jest` `HTML` `CSS` `SCSS`
 
+**Linkedin profile:** [www.linkedin.com/in/ilya-super-frontend](www.linkedin.com/in/ilya-super-frontend)
 <!--
 **Iluxmas/Iluxmas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
