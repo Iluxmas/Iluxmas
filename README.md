@@ -1,26 +1,30 @@
 ## Hi there 👋 
 
-My name is Ilya and I am going to be Senior Frontend Developer in four years (haha, really :relieved:)
+My name is Ilya and I am going to be Senior Frontend Developer in four years (haha, really :relieved:). 
+
+:warning: Be sure to visit my [personal page](https://iluxmas.github.io/resume/) designed and created by me :warning:
 
 **Things interesting to me:**
 
+- :repeat: Continuous improvement of skills and knowledge
 - :chart_with_upwards_trend: Efficiency and automatization <!--`(don't want my memory to leak)`-->
 - :apple: Fine design with attention to UX <!--`(it is already a lot of with poor usability)`-->
 - :question: Tasks not everyone can solve <!--`( )`-->
 
 ***
-**Tech stack:** `JavaScript` `React.js` `Webpack` `Jest` `HTML` `BEM` `CSS` `SCSS`
+**Tech stack:** `HTML` `CSS` `JavaScript` `BEM` `SCSS` `React.js` `Webpack` `Jest` `Express` `Nodejs` `FirebaseDB` `MongoDB`
 
 **Below is a list of projects you can find here, follow the link to read full description**
 
-- [How to learn](https://github.com/Iluxmas/how-to-learn) | Simple landing         
+- [How to learn](https://github.com/Iluxmas/how-to-learn) | Simple landing
+- [My personal page](https://github.com/Iluxmas/resume) | Page resume-portfolio made with React
 - [Russian travel](https://github.com/Iluxmas/russian-travel) | Landing with responsive design   
 - [Todo application](https://github.com/Iluxmas/To-do-app) | React application
 - [Mesto app](https://github.com/Iluxmas/mesto) | Photo socialmedia page
 - [Mesto app react](https://github.com/Iluxmas/mesto-react) | React ported version of Mesto
 - [StarWars database](https://github.com/Iluxmas/Starwars-DB) | React application (under construction)
 
-My current focus is a deep dive into React and Redux. Joined Hexlet-Codebattle opensource project to contribute and gain new knowledge.
+My current focus is a deep dive into React and Redux.
 ***
 **Linkedin profile:** [www.linkedin.com/in/ilya-super-frontend](www.linkedin.com/in/ilya-super-frontend)
 
