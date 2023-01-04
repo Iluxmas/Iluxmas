@@ -26,7 +26,7 @@ My name is Ilya and I am going to be Senior Frontend Developer in four years (ha
 
 My current focus is a deep dive into React and Redux.
 ***
-**Linkedin profile:** [www.linkedin.com/in/ilya-super-frontend](www.linkedin.com/in/ilya-super-frontend)
+**Linkedin profile:** [www.linkedin.com/in/ilya-super-frontend](www.linkedin.com/in/ilya-front)
 
 **Me at codewars:** [https://www.codewars.com/users/Iluxmas](https://www.codewars.com/users/Iluxmas)
 
