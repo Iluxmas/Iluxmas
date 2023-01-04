@@ -30,6 +30,7 @@ My current focus is a deep dive into React and Redux.
 
 **Me at codewars:** [https://www.codewars.com/users/Iluxmas](https://www.codewars.com/users/Iluxmas)
 
+**Write me in telegram:** [@topsykrets](https://t.me/topsykrets)
 <!--
 **Iluxmas/Iluxmas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
