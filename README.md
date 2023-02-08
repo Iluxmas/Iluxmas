@@ -16,6 +16,7 @@ My name is Ilya and I am going to be Senior Frontend Developer in four years (ha
 
 **Below is a list of projects you can find here, follow the link to read full description**
 
+- [Diploma work](https://kino.nomoredomains.club/) | Complete application on React and Node.js [front](https://github.com/Iluxmas/movies-explorer-frontend) [back](https://github.com/Iluxmas/movies-explorer-api)
 - [How to learn](https://github.com/Iluxmas/how-to-learn) | Simple landing
 - [My personal page](https://github.com/Iluxmas/resume) | Page resume-portfolio made with React
 - [Russian travel](https://github.com/Iluxmas/russian-travel) | Landing with responsive design   
