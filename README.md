@@ -12,7 +12,7 @@ My name is Ilya and I am going to be Senior Frontend Developer in four years (ha
 - :question: Tasks not everyone can solve <!--`( )`-->
 
 ***
-**Tech stack:** `HTML` `CSS` `JavaScript` `BEM` `SCSS` `React.js` `Webpack` `Jest` `Express` `Nodejs` `FirebaseDB` `MongoDB`
+**Tech stack:** `React` `Typescript` `Webpack` `JavaScript` `HTML` `CSS` `BEM` `SCSS` `Jest` `Express` `Nodejs` `FirebaseDB` `MongoDB`
 
 **Below is a list of projects you can find here, follow the link to read full description**
 
