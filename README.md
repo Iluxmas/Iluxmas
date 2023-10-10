@@ -7,15 +7,17 @@ My name is Ilya and I am going to be Senior Frontend Developer in four years (ha
 **Things interesting to me:**
 
 - :repeat: Continuous improvement of skills and knowledge
-- :chart_with_upwards_trend: Efficiency and automatization <!--`(don't want my memory to leak)`-->
-- :apple: Fine design with attention to UX <!--`(it is already a lot of with poor usability)`-->
+- :chart_with_upwards_trend: Efficiency and automatization
+- :apple: Fine design with attention to UX 
 - :question: Tasks not everyone can solve <!--`( )`-->
 
 ***
-**Tech stack:** `React` `Typescript` `Webpack` `JavaScript` `HTML` `CSS` `BEM` `SCSS` `Jest` `Express` `Nodejs` `FirebaseDB` `MongoDB`
+**Tech stack:** `React` `Typescript` `Redux-Toolkit` `Webpack` `Docker` `JavaScript` `HTML` `CSS` `BEM` `SCSS` `Jest` `Express` `Nodejs` `FirebaseDB` `MongoDB`
 
 **Below is a list of projects you can find here, follow the link to read full description**
 
+- [Sumplete game](https://github.com/Iluxmas/sumplete) | Combination of Sudoku and Japanese crosswords
+- [Currency converter extension](https://github.com/Iluxmas/currency-extension-typescript) | Extension for Chrome
 - [Diploma work](https://kino.nomoredomains.club/) | Complete application on React and Node.js [frontend](https://github.com/Iluxmas/movies-explorer-frontend) / [backend](https://github.com/Iluxmas/movies-explorer-api)
 - [How to learn](https://github.com/Iluxmas/how-to-learn) | Simple landing
 - [My personal page](https://github.com/Iluxmas/resume) | Page resume-portfolio made with React
