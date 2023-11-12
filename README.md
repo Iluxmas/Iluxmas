@@ -19,7 +19,7 @@ My name is Ilya and I am going to be Senior Frontend Developer in four years (ha
 - [Sumplete game](https://github.com/Iluxmas/sumplete) | Combination of Sudoku and Japanese crosswords
 - [Currency converter extension](https://github.com/Iluxmas/currency-extension-typescript) | Extension for Chrome
 - [Leasing calculator](https://github.com/Iluxmas/test_task_301023) | Frontend test task for Oxem Studio ([deploy](https://test-task-301023.vercel.app/))
-- [Diploma work](https://kino.nomoredomains.club/) | Complete application on React and Node.js [frontend](https://github.com/Iluxmas/movies-explorer-frontend) / [backend](https://github.com/Iluxmas/movies-explorer-api)
+- [Diploma work](https://github.com/Iluxmas/movies-explorer-frontend) | Complete application on React and Node.js ([backend](https://github.com/Iluxmas/)movies-explorer-api)
 - [How to learn](https://github.com/Iluxmas/how-to-learn) | Simple landing
 - [My personal page](https://github.com/Iluxmas/resume) | Page resume-portfolio made with React
 - [Russian travel](https://github.com/Iluxmas/russian-travel) | Landing with responsive design   
