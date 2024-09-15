@@ -2,8 +2,6 @@
 
 My name is Ilya and I am going to be Senior Frontend Developer in four years (haha, really :relieved:). 
 
-:warning: Be sure to visit my [personal page](https://iluxmas.github.io/resume/) designed and created by me :warning:
-
 **Things interesting to me:**
 
 - :repeat: Continuous improvement of skills and knowledge
@@ -12,7 +10,7 @@ My name is Ilya and I am going to be Senior Frontend Developer in four years (ha
 - :question: Tasks not everyone can solve <!--`( )`-->
 
 ***
-**Tech stack:** `React` `Typescript` `Redux-Toolkit` `Webpack` `Docker` `JavaScript` `HTML` `CSS` `BEM` `SCSS` `Jest` `Express` `Nodejs` `FirebaseDB` `MongoDB`
+**Tech stack:** `React` `Typescript` `Redux-Toolkit` `RTK Query` `Webpack` `JavaScript` `HTML` `CSS` `SCSS` `Jest` `Docker`
 
 **Below is a list of projects you can find here, follow the link to read full description**
 
@@ -29,7 +27,6 @@ My name is Ilya and I am going to be Senior Frontend Developer in four years (ha
 - [Mesto app react](https://github.com/Iluxmas/mesto-react) | React ported version of Mesto
 - [StarWars database](https://github.com/Iluxmas/Starwars-DB) | React application (under construction)
 
-Currently studying React, Typescript and Redux.
 ***
 **Linkedin profile:** [www.linkedin.com/in/ilya-front](www.linkedin.com/in/ilya-front)
 
