@@ -1,6 +1,6 @@
 ## Hi there 👋 
 
-My name is Ilya and I am going to be Senior Frontend Developer in four years (haha, really :relieved:). 
+My name is Ilya. I am passionate in frontend development and I like to learn new things every day
 
 **Things interesting to me:**
 
@@ -18,6 +18,9 @@ My name is Ilya and I am going to be Senior Frontend Developer in four years (ha
 - [Sumplete game](https://github.com/Iluxmas/sumplete) | Combination of Sudoku and Japanese crosswords
 - [Currency converter extension](https://github.com/Iluxmas/currency-extension-typescript) | Extension for Chrome
 - [Leasing calculator](https://github.com/Iluxmas/test_task_301023) | Frontend test task for Oxem Studio ([deploy](https://test-task-301023.vercel.app/))
+
+**Some of my project from Ya.Practicum**
+
 - [Diploma work](https://github.com/Iluxmas/movies-explorer-frontend) | Complete application on React and Node.js ([backend](https://github.com/Iluxmas/)movies-explorer-api)
 - [My personal page](https://github.com/Iluxmas/resume) | Page resume-portfolio made with React
 - [Russian travel](https://github.com/Iluxmas/russian-travel) | Landing with responsive design   
@@ -25,14 +28,12 @@ My name is Ilya and I am going to be Senior Frontend Developer in four years (ha
 - [How to learn](https://github.com/Iluxmas/how-to-learn) | Simple landing
 - [Mesto app](https://github.com/Iluxmas/mesto) | Photo socialmedia page
 - [Mesto app react](https://github.com/Iluxmas/mesto-react) | React ported version of Mesto
-- [StarWars database](https://github.com/Iluxmas/Starwars-DB) | React application (under construction)
 
 ***
-**Linkedin profile:** [www.linkedin.com/in/ilya-front](www.linkedin.com/in/ilya-front)
 
 **Me at leetcode:** [https://leetcode.com/u/Iluxmas/](https://leetcode.com/u/Iluxmas/)
 
 **Me at codewars:** [https://www.codewars.com/users/Iluxmas](https://www.codewars.com/users/Iluxmas)
 
-**Write me in telegram:** [@topsykrets](https://t.me/topsykrets)
+**Write me in telegram:** [@topsykrets](https://t.me/promise_reslove)
 
