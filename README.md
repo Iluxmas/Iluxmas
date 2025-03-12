@@ -35,5 +35,3 @@ My name is Ilya. I am passionate in frontend development and I like to learn new
 
 **Me at codewars:** [https://www.codewars.com/users/Iluxmas](https://www.codewars.com/users/Iluxmas)
 
-**Write me in telegram:** [@topsykrets](https://t.me/promise_reslove)
-
